@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **I’m currently learning Next.js, TypeScript,Next.js and AI/ML concepts.**
 
-- 👨‍💻 All of my projects are available at [https://itsmanishportfolio.vercel.app](https://itsmanishportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://itsmanishportfolio.vercel.app](https://about-manish.vercel.app/)
 
 - 📫 How to reach me **manish201258@gmail.com**
 
